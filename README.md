@@ -42,7 +42,7 @@ school-api/
 ### Clone Repository
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/Raguram2000/School-API
 cd school-api
 ```
 
@@ -174,7 +174,7 @@ The API can be deployed using platforms like Render.
 Example:
 
 ```
-https://your-app.onrender.com
+https://school-api-wx74.onrender.com
 ```
 
 ---
@@ -184,7 +184,7 @@ https://your-app.onrender.com
 Include your Postman collection link here:
 
 ```
-<your-postman-link>
+https://raguram2k00-1234951.postman.co/workspace/raguram's-Workspace~3f892538-0600-4f8b-829c-f6f7a4bca340/collection/53716952-4bc393de-025f-4e07-93a5-33cab1148909?action=share&source=copy-link&creator=53716952
 ```
 
 ---
